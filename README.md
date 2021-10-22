@@ -1,16 +1,27 @@
-# code_test
+# Ubenwa Coding Exercise
 
-A new Flutter project.
+Codes for Ubenwa Exercise
 
-## Getting Started
+>SCREEN SHOTS
 
-This project is a starting point for a Flutter application.
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <img src="./screenshots/splash.jpg" width="200"/>
+</td>
+  <td style="text-align: center">
+  <img src="./screenshots/intro.jpg" width="200"/>
+</td>
+<td style="text-align: center">
+<img src="./screenshots/register.jpg" width="200"/>
+</td>
+ 
+</tr></table></div>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download App
+
+Click the [DOWNLOAD APP](https://bit.ly/3fuSeKB) to download the .apk version of the app.
+
+
+
