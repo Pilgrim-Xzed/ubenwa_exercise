@@ -25,7 +25,10 @@ Codes for Ubenwa Exercise
  
 </tr></table></div>
 
-
+## Run
+flutter packages get
+flutter pub run build_runner build
+flutter run
 
 ## Download App
 
