@@ -15,9 +15,7 @@ Codes for Ubenwa Exercise
 <img src="./screenshots/register.jpg" width="200"/>
 </td>
  
-  <td style="text-align: center">
-<img src="./screenshots/veriify.jpg" width="200"/>
-</td>
+
  
   <td style="text-align: center">
 <img src="./screenshots/otp.jpg" width="200"/>
