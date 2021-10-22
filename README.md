@@ -29,7 +29,7 @@ Codes for Ubenwa Exercise
 
 ## Download App
 
-Click the [DOWNLOAD APP](https://bit.ly/3fuSeKB) to download the .apk version of the app.
+Click the [DOWNLOAD APP](https://transfer.sh/BFXXwj/ubenwa.apk) to download the .apk version of the app.
 
 
 
