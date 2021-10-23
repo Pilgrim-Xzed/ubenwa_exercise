@@ -30,7 +30,7 @@ flutter run
 
 ## Download App
 
-Click the [DOWNLOAD APP](https://transfer.sh/BFXXwj/ubenwa.apk) to download the .apk version of the app.
+Click the [DOWNLOAD APP](https://github.com/saeedbello/ubenwa_exercise/raw/master/ubenwa.apk) to download the .apk version of the app.
 
 
 
